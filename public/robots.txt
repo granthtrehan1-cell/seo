@@ -1,0 +1,6 @@
+# MotoGuide Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://motoguide.app/sitemap.xml

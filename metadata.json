@@ -1,0 +1,6 @@
+{
+  "name": "MotoGuide – Motorcycle Guides, Buying Advice & Maintenance",
+  "description": "Expert motorcycle buying guides, sports bike reviews, maintenance tips, safety advice, gear recommendations, and fuel mileage optimization for riders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
